@@ -1,3 +1,3 @@
-nombre: samuel
-apellidos: florez villaquiran
-fecha de nacimiento: 2006/02/13
+nombre samuel 
+apellidos florez villaquiran
+fecha nacimiento 2006/02/13
